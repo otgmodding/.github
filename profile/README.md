@@ -1,53 +1,50 @@
 <h1 align="center">Codebyte Studios</h1>
 
 <p align="center">
-  <strong>Community-driven game and web development studio</strong>
+  <strong>Game development and modern web solutions</strong>
 </p>
 
 <p align="center">
-  <a href="https://codebyte.studio" target="_blank">🌐 Website</a> • 
-  <a href="https://discord.gg/nYFkceqNBc" target="_blank">💬 Discord</a> • 
-  <a href="https://github.com/codebstudios" target="_blank">🐙 GitHub</a>
+  <a href="https://codebyte.studio" target="_blank">Website</a> • 
+  <a href="https://discord.gg/nYFkceqNBc" target="_blank">Discord</a> • 
+  <a href="https://github.com/codebstudios" target="_blank">GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Codebyte Studios
+## About Codebyte Studios
 
-**Codebyte Studios** is a passionate, community-driven studio specializing in scripting, game map design, and website development. We focus on crafting immersive and engaging experiences for games and the web—tailored to meet the needs of our clients and community.
+Codebyte Studios is a development studio specializing in game systems, map design, and web development. We work with game server owners, developers, and online communities to deliver reliable, scalable, and well-crafted solutions.
 
-Our mission is simple:  
-🎯 Deliver high-quality, customizable solutions that empower developers, game server owners, and businesses to bring their ideas to life.
-
----
-
-## 🧩 What We Do
-
-- 🎮 **Game Development**  
-  Scripting, systems, and map design for immersive gameplay.
-
-- 🕸️ **Web Development**  
-  Modern, responsive, and user-friendly websites.
-
-- 🤝 **Open Collaboration**  
-  We work hand-in-hand with our community and clients on every project.
-
-- 🌍 **Community-Driven**  
-  Your feedback and ideas shape what we create. Join our community to contribute!
+Our approach is centered on clarity, performance, and long-term maintainability—ensuring that every project we deliver is built to last.
 
 ---
 
-## 📢 Join Us
+## Services
 
-Want to follow our journey or get involved?
+**Game Development**  
+Custom scripting, gameplay systems, and map design focused on performance and player experience.
 
-- 🌐 Website: [codebyte.studio](https://codebyte.studio)
-- 💬 Discord: [Join our community](https://discord.gg/nYFkceqNBc)
-- 🐙 GitHub: [cbytestudios](https://github.com/codebstudios)
+**Web Development**  
+Responsive, modern websites designed for usability, speed, and scalability.
+
+**Project Collaboration**  
+We work closely with clients and partners throughout the development process to ensure clear communication and successful outcomes.
 
 ---
 
+## Get Involved
+
+- Website: [codebyte.studio](https://codebyte.studio)  
+- Discord: [Join our community](https://discord.gg/nYFkceqNBc)  
+- GitHub: [codebstudios](https://github.com/codebstudios)
+
+---
 
 <p align="center">
-  <em>© 2025 Codebyte Studios • Made with ❤️ by passionate devs</em>
+  <sub>Powered by <a href="https://orbithosting.net" target="_blank">Orbit Hosting</a></sub>
+</p>
+
+<p align="center">
+  <em>© 2025 Codebyte Studios. All rights reserved.</em>
 </p>
