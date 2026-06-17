@@ -1,50 +1,70 @@
-<h1 align="center">Codebyte Studios</h1>
+<h1 align="center">OTG Modding</h1>
 
 <p align="center">
-  <strong>Game development and modern web solutions</strong>
+  <strong>On The Grind Modding</strong><br>
+  Creating Worlds. Building Communities.
 </p>
 
 <p align="center">
-  <a href="https://codebyte.studio" target="_blank">Website</a> • 
-  <a href="https://discord.gg/nYFkceqNBc" target="_blank">Discord</a> • 
-  <a href="https://github.com/codebstudios" target="_blank">GitHub</a>
+  <strong>Farming Simulator Maps • Modding Projects • Community Experiences</strong>
 </p>
 
 ---
 
-## About Codebyte Studios
+## About OTG Modding
 
-Codebyte Studios is a development studio specializing in game systems, map design, and web development. We work with game server owners, developers, and online communities to deliver reliable, scalable, and well-crafted solutions.
+OTG Modding is focused on building high-quality Farming Simulator experiences for players and communities.
 
-Our approach is centered on clarity, performance, and long-term maintainability—ensuring that every project we deliver is built to last.
+From custom FS25 maps to immersive farming environments, our goal is simple:
 
----
+**Build something worth being a part of.**
 
-## Services
-
-**Game Development**  
-Custom scripting, gameplay systems, and map design focused on performance and player experience.
-
-**Web Development**  
-Responsive, modern websites designed for usability, speed, and scalability.
-
-**Project Collaboration**  
-We work closely with clients and partners throughout the development process to ensure clear communication and successful outcomes.
+We create projects with realism, detail, performance, and long-term support in mind. Every map and modding project is planned, tested, refined, and built for players who care about quality.
 
 ---
 
-## Get Involved
+## What We Do
 
-- Website: [codebyte.studio](https://codebyte.studio)  
-- Discord: [Join our community](https://discord.gg/nYFkceqNBc)  
-- GitHub: [codebstudios](https://github.com/codebstudios)
+**Farming Simulator Maps**  
+Custom maps inspired by real-world farming regions, including American and European-style environments.
+
+**Immersive Gameplay**  
+Detailed landscapes, realistic layouts, and community-focused features designed to improve the player experience.
+
+**Community Projects**  
+Servers, events, testing opportunities, development updates, and feedback-driven improvements.
+
+**Future Modding Projects**  
+OTG Modding is starting with Farming Simulator, but we are building toward something bigger.
 
 ---
+
+## Our Philosophy
+
+Anyone can release a project.
+
+Few take the time to perfect one.
+
+At OTG Modding, we believe in:
+
+- Quality over quantity
+- No rushed releases
+- No unfinished promises
+- Long-term support
+- Community-driven development
+
+---
+
+## Join The Movement
+
+Whether you're a farmer, creator, modder, or community builder, there’s a place for you here.
 
 <p align="center">
-  <sub>Powered by <a href="https://orbithosting.net" target="_blank">Orbit Hosting</a></sub>
+  <strong>Creating Worlds. Building Communities.</strong>
 </p>
 
+---
+
 <p align="center">
-  <em>© 2025 Codebyte Studios. All rights reserved.</em>
+  <em>© 2025 OTG Modding. All rights reserved.</em>
 </p>
